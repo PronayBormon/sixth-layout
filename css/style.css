@@ -1,0 +1,48 @@
+.head{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+}
+.menu{
+    height: 50px;
+    background-color: gray;
+    text-align: center;
+
+}
+.article_aside{
+overflow: hidden;
+height: 500px;
+}
+.aside{
+height: 100%;
+width: 50%;
+background-color: greenyellow;
+text-align: center;
+float: right;
+}
+
+.article{
+height: 100%;
+width: 50%;
+background-color: blue;
+text-align: center;
+float: left;
+}
+.section{
+height: 30px;
+background-color: purple;
+}
+.ar_head{
+    height: 30px;
+    background-color: blue;
+}
+.article_part{
+    height: 83%;
+    background-color: white;
+}
+.foot{
+    height: 100px;
+    background-color: green;
+    text-align: center;
+}
